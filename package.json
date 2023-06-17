@@ -1,27 +1,27 @@
 {
-  "name": "0023Modulo6Sesion3",
-  "version": "1.0.0",
-  "description": "EcmaScript 6 con NodeJs",
-  "main": "src/index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/operezedutecno/0023Modulo6Sesion3.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/operezedutecno/0023Modulo6Sesion3/issues"
-  },
-  "homepage": "https://github.com/operezedutecno/0023Modulo6Sesion3#readme",
-  "devDependencies": {
-    "nodemon": "^2.0.22"
-  },
-  "dependencies": {
-    "moment": "^2.29.4",
-    "rut.js": "^2.1.0"
-  }
+    "name": "0023Modulo6Sesion3",
+    "version": "1.0.0",
+    "description": "EcmaScript 6 con NodeJs",
+    "main": "src/index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/operezedutecno/0023Modulo6Sesion3.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/operezedutecno/0023Modulo6Sesion3/issues"
+    },
+    "homepage": "https://github.com/operezedutecno/0023Modulo6Sesion3#readme",
+    "devDependencies": {
+        "nodemon": "^2.0.22"
+    },
+    "dependencies": {
+        "moment": "^2.29.4",
+        "rut.js": "^2.1.0"
+    }
 }
